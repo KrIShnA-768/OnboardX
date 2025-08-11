@@ -78,8 +78,8 @@ Handle Approvals: If the employee requests to work remotely, the manager receive
 I built this project individually to deepen my Salesforce skills and create a portfolio piece that solves a real-world business problem.
 
 
-I'm al<img width="1024" height="1024" alt="Onboarding Tasks" src="https://github.com/user-attachments/assets/77caaefe-a6ac-4444-b602-c84e083816b2" />
-ways open to talking about technology, Salesforce, or new opportunities.
+<img width="1024" height="1024" alt="Onboarding Tasks" src="https://github.com/user-attachments/assets/77caaefe-a6ac-4444-b602-c84e083816b2" />
+
 
 
 --> Let's Connect!
